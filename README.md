@@ -30,3 +30,62 @@ My focus is on:
 - Looking for economically viable attack paths
 
 The goal is not just to find issues, but to understand how they can realistically be exploited.
+
+## Audit Process
+
+### 1. Context and Requirements Review
+I start by gathering all relevant materials including the codebase, requirement documents, and any supporting context provided by the team.
+
+I go through the requirements to understand the intended behaviour of the system before looking at the implementation. This helps in identifying gaps between expected and actual behaviour later in the audit.
+
+### 2. Initial Review
+I go through the full codebase to understand architecture, module interactions, and intended behaviour. This sets the baseline for deeper analysis.
+
+### 3. Manual Analysis
+This is the core of my process.
+
+I perform a line by line review with focus on:
+- State transitions
+- Access control boundaries
+- Input validation
+- Cross function and cross contract interactions
+- Edge cases that break expected invariants
+
+### 4. Tool Assisted Checks
+I use auditing tools to complement manual review, mainly to surface patterns such as:
+- Reentrancy risks
+- Unsafe external calls
+- Known vulnerability patterns
+
+Tools are used as a signal, not as a source of truth.
+
+### 5. Issue Validation
+All potential issues identified through manual review, tools, or other analysis are validated before being reported.
+
+I attempt to reproduce findings in a local environment wherever applicable to confirm impact and rule out false positives. Only confirmed issues are included in the report.
+
+### 6. Interim Report
+Findings are shared in an interim report with:
+- Clear description of the issue
+- Impact assessment
+- Suggested remediation
+
+This allows the team to start fixing issues early.
+
+### 7. Fix Review
+After the team responds, I review both code changes and any explanations provided.
+
+Issues may be:
+- Fixed in code
+- Addressed through valid design explanations
+
+If the reasoning is sound and aligns with the intended behaviour, the issue is marked accordingly.
+
+### 8. Final Report
+The final report is an updated version of the initial findings.
+
+Each issue is marked with its final status, such as fixed or acknowledged, along with any relevant notes from the review process.
+
+No separate report is created, the original report is amended to reflect the final state.
+This ensures the audit trail is clear and complete.
+
