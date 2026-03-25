@@ -89,3 +89,32 @@ Each issue is marked with its final status, such as fixed or acknowledged, along
 No separate report is created, the original report is amended to reflect the final state.
 This ensures the audit trail is clear and complete.
 
+## Report Structure
+
+Each report typically includes:
+
+- Scope
+- System overview
+- Methodology
+- Detailed findings
+- Severity classification
+- Recommendations
+
+## Severity Classification
+
+- **Critical**  
+  Leads to direct loss of funds or full protocol compromise
+
+- **High**  
+  Breaks core functionality or creates strong attack vectors
+
+- **Medium**  
+  Impacts assumptions, edge cases, or specific flows
+
+- **Low**  
+  Minor inconsistencies or improvements
+
+- **Informational**  
+  Observations related to code quality or clarity
+
+
