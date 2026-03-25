@@ -117,4 +117,9 @@ Each report typically includes:
 - **Informational**  
   Observations related to code quality or clarity
 
+## Repository Scope
+
+This repository contains only audit reports.
+
+No source code is included. Each report corresponds to the specific version of the codebase that was reviewed during the audit.
 
