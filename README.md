@@ -134,3 +134,10 @@ Projects may have changed or fixed issues after the audit was completed. Always 
 All vulnerabilities were disclosed to the respective teams before being made public.
 
 Sensitive issues are only included after confirmation or resolution.
+
+## Contact
+
+If you are looking for a smart contract audit or security review:
+
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lolstarhere@gmail.com)
+
