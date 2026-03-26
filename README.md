@@ -123,3 +123,14 @@ This repository contains only audit reports.
 
 No source code is included. Each report corresponds to the specific version of the codebase that was reviewed during the audit.
 
+## Disclaimer
+
+All findings are based on the state of the code at the time of the audit(commit ID is mentioned on which audit was conducted in the audit report, where the git repo is provided).
+
+Projects may have changed or fixed issues after the audit was completed. Always refer to the latest version of the code for the current behaviour.
+
+## Responsible Disclosure
+
+All vulnerabilities were disclosed to the respective teams before being made public.
+
+Sensitive issues are only included after confirmation or resolution.
