@@ -2,11 +2,11 @@
 
 This repository contains a collection of smart contract audit reports I have worked on as an individual auditor or contributor.
 
-It reflects my approach to auditing, the type of issues I focus on, and the level of depth I aim for in reviews.
+It reflects my approach to auditing, the type of issues I focus on, and the level of depth I aim for in audit reviews.
 
 ## Background
 
-I have been working as a blockchain developer since 2018 on EVM-based systems.
+I have been working as a blockchain developer since 2018 on EVM-based systems & auditing smart contracts across various blockchain.
 
 My experience includes building and reviewing:
 
