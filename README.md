@@ -44,11 +44,11 @@ I go through the full codebase to understand architecture, module interactions, 
 ### 3. Manual Analysis
 This is the core of my process.
 
-I perform a line by line review with focus on:
+I perform a line-by-line review with focus on:
 - State transitions
 - Access control boundaries
 - Input validation
-- Cross function and cross contract interactions
+- Cross-function and cross-contract interactions
 - Edge cases that break expected invariants
 
 ### 4. Tool Assisted Checks
@@ -57,7 +57,7 @@ I use auditing tools to complement manual review, mainly to surface patterns suc
 - Unsafe external calls
 - Known vulnerability patterns
 
-Tools are used as a signal, not as a source of truth.
+Tools are used as signals, not as sources of truth.
 
 ### 5. Issue Validation
 All potential issues identified through manual review, tools, or other analysis are validated before being reported.
@@ -86,7 +86,7 @@ The final report is an updated version of the initial findings.
 
 Each issue is marked with its final status, such as fixed or acknowledged, along with any relevant notes from the review process.
 
-No separate report is created, the original report is amended to reflect the final state.
+No separate report is created; the original report is amended to reflect the final state.
 This ensures the audit trail is clear and complete.
 
 ## Report Structure
