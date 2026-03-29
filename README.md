@@ -14,7 +14,7 @@ My experience includes building and reviewing:
 - NFT marketplaces
 - Token systems and custom contract logic
 
-Over time, I have moved deeper into smart contract security, with a strong focus on identifying logic flaws, broken assumptions, and real world exploit paths rather than surface-level issues.
+Over time, I have moved deeper into smart contract security, with a strong focus on identifying logic flaws, broken assumptions, and real-world exploit paths rather than surface-level issues.
 
 ## Audit Philosophy
 
@@ -34,12 +34,12 @@ The goal is not just to find issues, but to understand how they can realisticall
 ## Audit Process
 
 ### 1. Context and Requirements Review
-I start by gathering all relevant materials including the codebase, requirement documents, and any supporting context provided by the team.
+I start by gathering all relevant materials, including the codebase, requirement documents, and any supporting context provided by the team.
 
 I go through the requirements to understand the intended behaviour of the system before looking at the implementation. This helps in identifying gaps between expected and actual behaviour later in the audit.
 
 ### 2. Initial Review
-I go through the full codebase to understand architecture, module interactions, and intended behaviour. This sets the baseline for deeper analysis.
+I go through the full codebase to understand the architecture, module interactions, and intended behaviour. This sets the baseline for deeper analysis.
 
 ### 3. Manual Analysis
 This is the core of my process.
