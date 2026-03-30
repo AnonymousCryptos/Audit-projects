@@ -26,7 +26,7 @@ My focus is on:
 
 - Breaking assumptions
 - Tracking state transitions across flows
-- Identifying trust boundaries and how they can fail
+- Identifying trust boundaries and how they can fail in real time
 - Looking for economically viable attack paths
 
 The goal is not just to find issues, but to understand how they can realistically be exploited.
@@ -36,7 +36,7 @@ The goal is not just to find issues, but to understand how they can realisticall
 ### 1. Context and Requirements Review
 I start by gathering all relevant materials, including the codebase, requirement documents, and any supporting context provided by the team.
 
-I go through the requirements to understand the intended behaviour of the system before looking at the implementation. This helps in identifying gaps between expected and actual behaviour later in the audit.
+I go through the requirements to understand the intended behaviour of the system before looking at the implementation. This helps in identifying gaps between expected and actual behaviour later in the audit process.
 
 ### 2. Initial Review
 I go through the full codebase to understand the architecture, module interactions, and intended behaviour. This sets the baseline for deeper analysis.
