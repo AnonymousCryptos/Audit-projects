@@ -125,7 +125,7 @@ No source code is included. Each report corresponds to the specific version of t
 
 ## Disclaimer
 
-All findings are based on the state of the code at the time of the audit(commit ID is mentioned on which audit was conducted in the audit report, where the git repo is provided).
+All findings are based on the state of the code at the time of the audit(commit ID is mentioned on which audit was conducted in the audit report, where the git repo was provided).
 
 Projects may have changed or fixed issues after the audit was completed. Always refer to the latest version of the code for the current behaviour.
 
