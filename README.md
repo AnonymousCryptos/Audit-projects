@@ -16,6 +16,10 @@ My experience includes building and reviewing:
 
 Over time, I have moved deeper into smart contract security, with a strong focus on identifying logic flaws, broken assumptions, and real-world exploit paths rather than surface-level issues.
 
+I have also contributed to multiple smart contract audits as part of my previous organization. A subset of that work is publicly available here:
+
+https://github.com/somish/smartcontract-audits
+
 ## Audit Philosophy
 
 I treat audits as a problem of understanding intent versus actual behaviour.
