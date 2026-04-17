@@ -6,7 +6,7 @@ It reflects my approach to auditing, the type of issues I focus on, and the leve
 
 ## Background
 
-I have been working as a blockchain developer since 2018 on EVM-based systems & auditing smart contracts across various blockchain.
+I have been working as a blockchain developer since 2018 on EVM-based systems & auditing smart contracts across various blockchain(not limited to EVM-based systems).
 
 My experience includes building and reviewing:
 
