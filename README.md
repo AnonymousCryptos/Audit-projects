@@ -133,7 +133,7 @@ Projects may have changed or fixed issues after the audit was completed. Always 
 
 ## Responsible Disclosure
 
-All vulnerabilities were disclosed to the respective teams before being made public.
+All vulnerabilities were reported to the appropriate teams prior to public disclosure.
 
 Sensitive issues are only included after confirmation or resolution.
 
