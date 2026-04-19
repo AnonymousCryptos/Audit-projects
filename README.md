@@ -2,7 +2,7 @@
 
 This repository contains a collection of smart contract audit reports I have worked on as an individual auditor or contributor.
 
-It reflects my approach to auditing, the type of issues I focus on, and the level of depth I aim for in audit reviews.
+It showcases my auditing approach, the kinds of issues I prioritize, and the depth of analysis I bring to audit reviews.
 
 ## Background
 
@@ -20,7 +20,7 @@ I have also contributed to multiple smart contract audits as part of my previous
 
 ## Audit Philosophy
 
-I treat audits as a problem of understanding intent versus actual behaviour.
+I approach audits as an exercise in comparing intended behavior with what actually occurs.
 
 Most critical issues do not come from syntax mistakes, but from gaps between what the system is expected to do and what it actually allows under edge conditions.
 
