@@ -139,7 +139,7 @@ Sensitive issues are only included after confirmation or resolution.
 
 ## Contact
 
-If you are looking for a smart contract audit or security review:
+For anyone who is looking for a smart contract audit or security review:
 
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lolstarhere@gmail.com)
 
