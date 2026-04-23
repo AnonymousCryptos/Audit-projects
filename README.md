@@ -20,7 +20,7 @@ I have also contributed to multiple smart contract audits as part of my previous
 
 ## Audit Philosophy
 
-I approach audits as an exercise in comparing intended behavior with what actually occurs.
+I approach audits as an exercise in comparing intended behavior with actual behavior.
 
 Most critical issues do not come from syntax mistakes, but from gaps between what the system is expected to do and what it actually allows under edge conditions.
 
@@ -64,7 +64,7 @@ Tools are used as signals, not as sources of truth.
 ### 5. Issue Validation
 All potential issues identified through manual review, tools, or other analysis are validated before being raised.
 
-I attempt to reproduce findings in a local environment wherever applicable to confirm impact and rule out false positives before including them into final list of issues. Only confirmed issues are included in the report.
+I attempt to reproduce findings in a local environment wherever applicable to confirm impact and rule out false positives before including them in the final list of issues. Only confirmed issues are included in the report.
 
 ### 6. Interim Report
 Findings are shared in an interim report with:
@@ -133,7 +133,7 @@ Projects may have changed or fixed issues after the audit was completed. Always 
 
 ## Responsible Disclosure
 
-All vulnerabilities were reported to the appropriate teams prior to public disclosure.
+All vulnerabilities were reported to the appropriate teams before public disclosure.
 
 Sensitive issues are only included after confirmation or resolution.
 
