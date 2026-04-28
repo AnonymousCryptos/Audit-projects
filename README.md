@@ -116,7 +116,7 @@ Each report typically includes:
 - **Low**  
   Minor inconsistencies or improvements
 
-- **Informational**  
+- **Informational**  / **Notes**
   Observations related to code quality or clarity
 
 ## Repository Scope
