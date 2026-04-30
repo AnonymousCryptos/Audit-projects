@@ -41,7 +41,7 @@ I start by gathering all relevant materials, including the codebase, requirement
 I go through the requirements to understand the intended behaviour of the system before looking at the implementation. This helps in identifying gaps between expected and actual behaviour later in the audit process.
 
 ### 2. Initial Review
-I go through the full codebase to understand the architecture, module interactions, and intended behaviour. This sets the baseline for deeper analysis.
+I go through the full codebase to understand the architecture, module interactions, and intended behaviour. This sets the baseline for deep-level analysis.
 
 ### 3. Manual Analysis
 This is the core of my process.
