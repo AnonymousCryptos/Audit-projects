@@ -14,7 +14,7 @@ My experience includes building and reviewing:
 - NFT marketplaces
 - Token systems and custom contract logic
 
-Over time, I have moved deeper into smart contract security, with a strong focus on identifying logic flaws, broken assumptions, and real-world exploit paths rather than surface-level issues.
+Over time, I have moved deeper into smart contract security, with a strong focus on identifying logic flaws, broken assumptions, and real-world exploit paths rather than just surface-level issues.
 
 I have also contributed to multiple smart contract audits as part of my previous organization. A subset of that work is publicly available [here.](https://github.com/somish/smartcontract-audits)
 
