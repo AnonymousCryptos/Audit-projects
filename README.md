@@ -135,7 +135,7 @@ Projects may have changed or fixed issues after the audit was completed. Always 
 
 All vulnerabilities were reported to the appropriate teams before public disclosure.
 
-Sensitive issues are only included after confirmation or resolution.
+Sensitive issues are only included after confirmation.
 
 ## Contact
 
