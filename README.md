@@ -123,7 +123,7 @@ Each report typically includes:
 
 This repository contains only audit reports.
 
-No source code is included. Each report corresponds to the specific version of the codebase that was reviewed during the audit.
+No source code is included. Each report corresponds to the specific version of the codebase that was reviewed during the audit process.
 
 ## Disclaimer
 
